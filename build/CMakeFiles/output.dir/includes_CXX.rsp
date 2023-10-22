@@ -1,0 +1,1 @@
+-I"C:/Python310-32/include" -I"C:/Python310-32/Lib/site-packages/numpy/core/include" -I"C:/libxl-win-4.1.2/libxl-4.1.2/include_cpp" -IC:/DVT/include

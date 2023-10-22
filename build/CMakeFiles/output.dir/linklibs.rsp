@@ -1,0 +1,1 @@
+  -L"C:/libxl-win-4.1.2/libxl-4.1.2/lib"  "C:/Python310-32/libs/python310.lib" "C:/libxl-win-4.1.2/libxl-4.1.2/lib/libxl.lib" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
